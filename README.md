@@ -1,5 +1,5 @@
-## Hi there
-🌱 I’m currently learning Python💻
+## Hi there 👋
+🌱 I’m currently learning Programming💻
 
 
 ## Tech Stack
