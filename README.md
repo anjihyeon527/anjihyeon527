@@ -1,14 +1,13 @@
 ## Hi there 👋
-🌱 I’m currently learning Programming💻
-
+💻 I’m currently learning Programming
 
 ## Tech Stack
 
 | **Category** | **Technologies** |
 |--------------|-------------------|
-| **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-EAF4FB?style=flat-square)** | ![Python](https://img.shields.io/badge/Python-A8E1DB?style=flat-square&logo=Python&logoColor=EAF4FB)  |
-| **![Collaboration Tools](https://img.shields.io/badge/Collaboration%20Tools-EAF4FB?style=flat-square)** | ![Notion](https://img.shields.io/badge/Notion-FFCBDF?style=flat-square&logo=Notion&logoColor=EAF4FB) ![Miro](https://img.shields.io/badge/Miro-FFCBDF?style=flat-square&logo=Miro&logoColor=EAF4FB) ![Discord](https://img.shields.io/badge/Discord-FFCBDF?style=flat-square&logo=Discord&logoColor=EAF4FB) |  
-| **![Documentations](https://img.shields.io/badge/Documentations-EAF4FB?style=flat-square)** | ![Markdown](https://img.shields.io/badge/Markdown-C1B3F2?style=flat-square&logo=Markdown&logoColor=EAF4FB)  ![LaTeX](https://img.shields.io/badge/LaTeX-C1B3F2?style=flat-square&logo=LaTeX&logoColor=EAF4FB)|
+| **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-EAF4FB?style=flat-square)** | ![Python](https://img.shields.io/badge/Python-A8E1DB?style=flat-square&logo=Python&logoColor=000000)  |
+| **![Collaboration Tools](https://img.shields.io/badge/Collaboration%20Tools-EAF4FB?style=flat-square)** | ![Notion](https://img.shields.io/badge/Notion-FFCBDF?style=flat-square&logo=Notion&logoColor=000000) ![Miro](https://img.shields.io/badge/Miro-FFCBDF?style=flat-square&logo=Miro&logoColor=000000) ![Discord](https://img.shields.io/badge/Discord-FFCBDF?style=flat-square&logo=Discord&logoColor=000000) |  
+| **![Documentations](https://img.shields.io/badge/Documentations-EAF4FB?style=flat-square)** | ![Markdown](https://img.shields.io/badge/Markdown-C1B3F2?style=flat-square&logo=Markdown&logoColor=000000)  ![LaTeX](https://img.shields.io/badge/LaTeX-C1B3F2?style=flat-square&logo=LaTeX&logoColor=000000)|
 
 ## Stats
 <div align="center">
